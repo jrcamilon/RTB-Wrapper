@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "RTB-Dashboard",
+    "icon": "./assets/icon.png",
+    "description": "",
+    "sdkVersion": "32.0.0",
+    "version": "1.0.0",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.adobe.rtbdashboard"
+    },
+    "android": {
+      "package": "com.adobe.rtbdashboard"
+    },
+    "slug": "RTB-Dashboard",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+
+  }
+}
